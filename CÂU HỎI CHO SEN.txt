@@ -1,0 +1,96 @@
+Bot: Xin chào, bạn tên là gì?
+>>> Nói tên
+>>> VD: Ngọc
+Bot: ...
+Bot: Bạn cần Sen giúp gì ạ?
+
+1---------------------------------------
+CÂU LỆNH: "dừng" hoặc "thôi" hoặc "nghỉ"
+Bot: ...
+Stop!
+
+2---------------------------------------
+CÂU LỆNH: "nói chuyện" hoặc "trò chuyện"
+Bot: ...
+Bot: Nói chuyện với tôi, bạn thấy thế nào ?
+Me: ...
+Bot: ...
+Bot: Bạn có muốn nghe chuyện cười Sen kể?
+Me: ...
+Bot: ...
+Bot: Bạn thấy Sen nói chuyện khá hơn chưa ạ?
+Me: ...
+Bot: ...
+Bot: Ngày hôm nay của bạn thế nào?
+Me: ...
+Bot: ...
+>>> Me: Cảm ơn
+Bot: ...
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+3---------------------------------------
+CÂU LỆNH: "thời gian" hoặc "xem ngày" hoặc "xem giờ"
+Bot: Dạ vâng có ngay đây ạ, bạn muốn xem gì ạ ?
+Me: ...
+Bot: ...
+Bot: Bạn có muốn xem thời gian nữa?
+Me: ...
+Bot: ...
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+4---------------------------------------
+CÂU LỆNH: "chơi nhạc" or "mở youtube"
+Bot: Xin mời bạn chọn bài hát
+Me: ...
+Bot: Bài hát của bạn đã được mở, hãy thưởng thức nó!
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+5---------------------------------------
+CÂU LỆNH: "thời tiết" hoặc "nhiệt độ" 
+Bot: Bạn muốn xem thời tiết ở đâu ạ?
+Me: ...
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+6---------------------------------------
+CÂU LỆNH: "mở google tìm ..."
+Bot: Ô kê la, có ngay đây ạ. Google tìm kiếm đã sẵn sàng.
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+7---------------------------------------
+CÂU LỆNH: "mở + ... (word/excel/powerpoint)"
+Bot: Ô kê la, có ngay đây ạ. ... đã sẵn sàng.
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+8---------------------------------------
+CÂU LỆNH: "định nghĩa + ..."
+Bot: (15s)
+Bot: Bạn muốn nghe tiếp hay không ?
+
+9---------------------------------------
+CÂU LỆNH: "thay hình nền"
+Bot: Hình nền máy tính vừa được thay đổi
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+10--------------------------------------
+CÂU LỆNH: "gửi thư" hoặc "gmail" hoặc "email"
+Bot: Bạn muốn gửi gmail cho ai ạ?
+Me: ngọc
+Bot: Ô kê la, hãy nói cho Sen nội dung bạn muốn gửi là gì?
+Me: ...
+Bot: ...
+Bot: Bạn cần Sen giúp gì nữa không ạ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
